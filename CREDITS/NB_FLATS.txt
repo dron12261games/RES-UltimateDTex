@@ -1,0 +1,52 @@
+================================================================
+Title                   : Useful flats
+
+Filename                : nb_flats.zip (nb_flats.txt and nb_flats.wad)
+
+Author                  : Nick Baker
+		  
+Email Address           : nick@frad.org
+
+Description             : A collection of around 50 flats which almost
+			  any level designer may find pretty handy.
+
+			  These include flats to go with certain
+			  textures (e.g. BROWN1, PANx, STARx, TEKGRENx),
+			  rotated versions of existing flats, etc.
+
+Additional credits to:	: ID Software for the original textures.
+
+================================================================
+
+* What is included *
+
+
+Graphics                : Yes
+Anything else		: No
+
+
+* Construction *
+
+Base                    : Various Doom 2 textures and flats
+Build time		: A few hours
+Editor(s) used          : WinTex v4.3
+			  Texsynth v0.3
+			  Paintshop Pro v6.00, v7.00
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification 
+or reuse.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.
+
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+
+
+* Where to get this WAD *
+
+http://haunt.8m.com/textures.html

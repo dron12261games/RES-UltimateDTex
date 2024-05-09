@@ -1,0 +1,108 @@
+---------------------
+UltimateDTex.wad
+Compiled by Dron12261
+---------------------
+Beta 2 fix 1
+
+
+!!!!!!!!!!!!!!!!!!!!!!!
+If you are using this texturepack, please copy this .txt file into your wad, 
+as well as the following files, which can be found either in the .wad 
+texturepack itself or in the adjacent CREDITS folder:
+NB_FLATS
+MID_TEX
+NB_RECOL
+DGDBTXTR
+NB5TEXD2
+DTEXPAK
+NB_SILV
+PPTEX
+GOTHICTX
+!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Texturepacks and credits:
+- D1inD2.wad (fixed by Dron12261)
+
+- Midtex.wad (not all textures)
+(MID_TEX.txt inside this wad)
+
+- UDET.wad
+Conversion: N/A
+Author: Enjay, Nightmare, Malinku, Earthquake
+Submitted: Malinku
+
+- PPTex_D2.wad
+(PPTEX.txt inside this wad)
+
+- NOIRPACK.WAD
+Author: Textures made by FuzzballFox and compiled by TheGreenHerring
+Submitted: FuzzballFox
+
+- nb_silv.wad
+(NB_SILV.txt inside this wad)
+
+- nb5texd2.WAD
+(NB5TEXTD2.txt inside this wad)
+
+- NB_RECOL.WAD
+(NB_RECOL.txt inside this wad)
+
+- nb_flats.wad
+(NB_FLATS.txt inside this wad)
+
+- litextra.wad
+Conversion: N/A
+Author: FuzzballFox
+Submitted: FuzzballFox
+
+- GOTHICTX.WAD 
+(GOTHICTX.txt inside this wad)
+
+- dtexpak.wad
+(DTEXPAK.txt inside this wad)
+
+- DGDBTXTR.WAD
+(DGDBTXTR.txt inside this wad)
+
+- Textures by ChaingunnerX (aka Chainie)
+
+- RTPTex.wad
+
+- CageTex
+Author: Cage
+Submitted by: Ceeb/Grymmoire
+
+- CageTex2
+Conversion: Zero X. Diamond
+Author: Cage, Fox666, NeuralStunner (the latter two for the enhanced cacodemon marble texture)
+Submitted: Blue Shadow
+
+- FireSky
+Submitted: scalliano
+Author: Williams Entertainment
+Conversion: fenderc01
+Edit: scalliano
+Idea Base: PSX Doom flaming sky
+
+- Snow Textures
+From Whitemare 2 and DBP35
+
+- Skin
+From 32in24-15_tex_v2.wad
+
+- Plutonia Textures
+
+- WraithCorpTex compiled by DRON12261
+Textures from Perdition's Gate and Hell to Pay
+
+- TNT Textures
+Fixed egypt textures by DeathWish
+
+- DRON12261 Textures/Edits/Other
+PORTAL from Heartland
+ALLBLACK and ALLWHITE by DRON12261
+PORTWARN by DRON12261
+Colored Textures variations by DRON12261
+
+- A Doom Odyssey 2022

@@ -1,0 +1,551 @@
+
+///////////////////////////////////////////
+//	                                     //
+//			Mid Texture Repository       //
+//                                       //
+///////////////////////////////////////////
+
+*******************************************
+
+///////////////////////////////////////////
+//	                                     //
+//				 Hellcore                //
+//                                       //
+///////////////////////////////////////////
+
+Source: Hellcore (espi_hctex.wad)
+Author: Espi (I'm pretty sure?)
+Download: "https://www.doomworld.com/afterglow/textures/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//			   32 in 24 - 15             //
+//                                       //
+///////////////////////////////////////////
+
+Source: 32in24-15 (32in24-15_tex.wad)
+Author: Updated/Extended by esselfortium and The Green Herring
+Download: "https://www.doomworld.com/afterglow/textures/"
+
+Credits: Based on the readme, this includes:
+
+NiGHTMARE, Espi, Eriance, Fredrik Johansson, Janitor, DaGGeR, Ola Bjorling,
+Vader, XDelusion, esselfortium, RottKing, Nuxius, Afterglow, AgentSpork,
+RottKing, Enjay, Huy Pham, SargeBaldy, Tormentor667, The GothicDM Team,
+The Requiem Team, The Eternal Doom Team, id Software, Raven Software,
+Rogue Entertainment, 3D Realms Entertainment, LucasArts, 
+H. R. Giger (converted by Stephen Renton), Skulltag Team, Robert Babor,
+The Alpha Dog Alliance, Team TNT, The Green Herring,
+32in24-7 Texture Contributors, "Operation: Biowar" Team, Rand and 
+Steven Phares, CAProduction, Paul Maurone, Kurt Kesler, Michael "Optimus" 
+Kargas, Greenwar 2 Texture Contributors, Capcom, Shaikoten, iD Software,
+Thomas van der Velden (www.rabotik.nl), Risen, Gregory H. Revera, Namco,
+Magic_Man, Stuntman 21, Windows Vista MS Paint fonts
+ 
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Gothic                   //
+//                                       //
+///////////////////////////////////////////
+
+Download: "https://www.doomworld.com/idgames/graphics/gothictx"
+
+* DISCLAIMER *
+This PWAD contains select texture(s) and flat(s) that can originally be found
+in GothicDM or Gothic2. Credit and thanks go out to the artist(s) of said
+flat(s) and texture(s) and also to the rest of the Gothic Crew (1997/98). The
+ORIGINAL GothicDM(2).ZIP can be found at CDROM.COM. Each said PKZIP archive
+contains thirty-two professional quality levels and music.
+http://cdrom.com/pub/idgames/levels/doom2/deathmatch/megawads/gothicdm.zip
+http://cdrom.com/pub/idgames/levels/doom2/deathmatch/megawads/gothic2.zip
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				CC4-Tex                  //
+//                                       //
+///////////////////////////////////////////
+
+Source: Community Chest 4 (cc4-tex.wad)
+Download: "https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/cchest4"
+Authors: Based on the readme, this includes:
+
+NiGHTMARE, Espi, Eriance, Fredrik Johansson, Janitor, DaGGeR, Ola Bjorling,
+Vader, XDelusion, esselfortium, RottKing, Nuxius, Afterglow, AgentSpork,
+RottKing, Enjay, Huy Pham, SargeBaldy, Tormentor667, The GothicDM Team,
+The Requiem Team, The Eternal Doom Team, id Software, Raven Software,
+Rogue Entertainment, 3D Realms Entertainment, LucasArts, 
+H. R. Giger (converted by Stephen Renton), Skulltag Team, Robert Babor,
+The Alpha Dog Alliance, Team TNT, The Green Herring,
+32in24-7 Texture Contributors, "Operation: Biowar" Team, Rand and 
+Steven Phares, CAProduction, Paul Maurone, Kurt Kesler, Michael "Optimus" 
+Kargas, Greenwar 2 Texture Contributors, Capcom, Shaikoten, iD Software,
+Thomas van der Velden (www.rabotik.nl), Risen, Gregory H. Revera, Namco,
+Magic_Man, Stuntman 21, Windows Vista MS Paint fonts
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Arx Fatalis              //
+//                                       //
+///////////////////////////////////////////
+
+Conversion: Ozymandias81
+Author: Arkane Studios
+Submitted: Ozymandias81
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Kingpin                  //
+//                                       //
+///////////////////////////////////////////
+
+Source: Kingpin - Life of Crime
+Conversion: Ceeb
+Author: Xatrix Entertainment
+Submitted: Ceeb
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Blood                    //
+//                                       //
+///////////////////////////////////////////
+
+Source: Blood, Plasma Pak, Cryptic Passage, Alpha/Beta releases
+Conversion: Ceeb
+Author: Monolith Productions, Sunstorm Interactive
+Submitted: Ceeb
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				OTEX                     //
+//                                       //
+///////////////////////////////////////////
+
+OTEX by Ola Björling
+version 1.1
+Released 2020-07-03
+
+Download: "https://doom.ukiro.com/otex-downloads/"
+contact: ukiro@ukiro.com
+web: doom.ukiro.com
+OTEX discord: https://discord.gg/6keMwZR
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Hexen II                 //
+//                                       //
+///////////////////////////////////////////
+
+Source: Hexen II + expansion
+Conversion: Ceeb
+Author: Raven Software
+Submitted: Ceeb
+Download: "https://www.doomworld.com/afterglow/textures/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//			Redneck Rampage              //
+//                                       //
+///////////////////////////////////////////
+
+Source: Redneck Rampage + Expansions
+Conversion: Ceeb
+Author: Xatrix Entertainment
+Submitted: Ceeb
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Doom 3                   //
+//                                       //
+///////////////////////////////////////////
+
+Source: Doom 3
+Conversion: hidfan
+Author: id Software, Activision
+Upload: HIDfan
+Download: "https://www.doomworld.com/forum/topic/92309-doom-3-textures-for-doom/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Bakers Legacy            //
+//                                       //
+///////////////////////////////////////////
+
+Conversion: JadedLexi
+Author: Captain Toenail, Enjay, Esselfortium, Evil Space Tomato, 
+Gez, Neoworm, Nightmare, Pun1sh3r, Icytux, Rottking, Tormentor667, 
+Vader, Xaser
+Submitted: Tormentor667
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/heretic-hexen-style-mainmenu-154-49305"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Shadowcaster             //
+//                                       //
+///////////////////////////////////////////
+
+Conversion: Gez, RaVeN
+Author: Raven Software
+Submitted: RaVeN
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/heretic-hexen-style-mainmenu-154-49305"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//			Aliens vs. Predator 2        //
+//                                       //
+///////////////////////////////////////////
+
+Conversion: A Limes Zen Sky (with additional work by Ceeb)
+Author: Monolith Productions
+Submitted: Ceeb
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				UAC Ultra                //
+//                                       //
+///////////////////////////////////////////
+
+Credits: 40oz (GRSites, SlayeR, Super Jamie)
+Source: UAC Ultra (uacultra.wad)
+Download: "https://www.doomworld.com/afterglow/textures/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Cage Textures            //
+//                                       //
+///////////////////////////////////////////
+
+Source: Scratch/Doom edits
+Author: Cage
+Submitted by: Ceeb/Grymmoire
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/doom-style-mainmenu-153-87237"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Chasm: The Rift          //
+//                                       //
+///////////////////////////////////////////
+
+Source: Chasm: The Rift
+Conversion: zrrion the insect
+Author: Action Forms Ltd.
+Submitted: zrrion the insect
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//			Doom 64 Variants             //
+//                                       //
+///////////////////////////////////////////
+
+Source: Doom64
+Author: DrDoctor
+Submitted: DrDoctor
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				1K Lines 3               //
+//                                       //
+///////////////////////////////////////////
+
+Source: 1K Lines 3 CP
+Author: Liberation and co.
+Additional textures: Liberation, Aurelius, AD_79, antares031 and Scotty.
+Download: "https://www.doomworld.com/forum/topic/125479-1000-lines-3-community-project-v10-released/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//			Heavy Metal F.A.K.K. II      //
+//                                       //
+///////////////////////////////////////////
+
+Source: Heavy Metal F.A.K.K. II
+Conversion: Ozymandias81
+Author: Metal Mammoth & Ritual Entertainment
+Submitted: Ozymandias81
+Download: "https://www.realm667.com/en/repository-18489/texture-stock-mainmenu-152-97360/other-sources-styles-mainmenu-155-26369"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Valiant                  //
+//                                       //
+///////////////////////////////////////////
+
+Source: valiant.wad
+Author: Tormentor667 (T6_) and Nick Baker (N_VINE)
+Download: "https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/valiant"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Demonastery              //
+//                                       //
+///////////////////////////////////////////
+
+Source: Doom edits (demonastery.wad)
+Author: Nootrac4571
+Download: "https://www.doomworld.com/idgames/levels/doom2/Ports/d-f/demonastery"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				JimmyTex                 //
+//                                       //
+///////////////////////////////////////////
+
+Source: Doom edits
+Author: James Paddock (Jimmy)
+Download: "https://www.doomworld.com/afterglow/textures/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				Rowdy Rudy 2             //
+//                                       //
+///////////////////////////////////////////
+
+Source: Rowdy Rudy 2
+Author: Doomkid & co
+Sources: Unknown (Doom edits?)
+Download: "https://www.doomworld.com/idgames/levels/doom2/megawads/rudy2"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				 LostRes                 //
+//                                       //
+///////////////////////////////////////////
+
+Source: Unused/lost resources from id Software
+Author: Xaser and NaturalTvventy (compiled/fixed)
+Download: "https://www.doomworld.com/afterglow/textures/"
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//				 elend                   //
+//                                       //
+///////////////////////////////////////////
+
+Author: elend
+From: "Post your Doom textures" DW thread
+Sources:
+Tree Models from Sketchfab.com (gnarly trees)
+Stock trees from freepik.com (brgfx / Freepik) (cartoon trees)
+
+
+
+///////////////////////////////////////////
+//	                                     //
+//			Other / Miscellaneous        //
+//                                       //
+///////////////////////////////////////////
+
+Author: Not Jabba
+From: "Post your Heretic/Hexen textures" DW thread
+NJ_WIN1 - 4 (Source: Heretic edits?)
+NJVINE series (Source: Based on CSTLBIG texture by 'zrrion the insect')
+
+
+
+Author: TravyB
+From: "Post your Heretic/Hexen textures" DW thread
+TRAV_1 (Source: Heretic edits?)
+
+
+
+Author: whirledtsar
+From: "Post your Heretic/Hexen textures" DW thread
+WHIRL_1 (Source: Hexen edit)
+
+
+
+Author: TheHambourgeois
+From: "Post your Heretic/Hexen textures" DW thread
+From: "Post your Doom textures" DW thread
+HAMB_1 - 4 (Source: Unknown (maybe an edit?))
+HAMB_R1 - 4 (Source: Unknown)
+
+
+
+Author: James Paddock (Jimmy)
+From: "Post your Doom textures" DW thread
+JIM_1 - 4 (Source: Doom edit)
+
+
+
+Author: Dragonfly
+From: "Post your Doom textures" DW thread
+DFLY_1 - 5 (Source: Doom Eternal edits?)
+There's more of these in the thread (page 18)
+
+
+
+Author: BLAZING_DUST
+From: "Post your Doom textures" DW thread
+DUST_S1 - 4 (Source: Unknown)
+
+
+
+Author: LoneAlpha2401
+From: "Post your Doom textures" DW thread
+LONE_1 - 5 (Source: Doom edits)
+
+
+
+Author: Dynamo
+From: "Post your Doom textures" DW thread
+TEKGFAN1 - 4 (Source: Doom edits, inspired by Lost Civilization)
+
+
+
+Author: Afterglow
+From: "Post your Doom textures" DW thread
+GLOW_1 - 3 (Source: Doom edits)
+
+
+
+Author: nue
+From: "Post your Doom textures" DW thread
+GRADIEN1 & 2 (Source: from scratch)
+
+
+
+Author: DooMAD
+From: "Post your Doom textures" DW thread
+MAD_1 - 8 (Source: Unknown)
+MAD_ARC1 - 3 (Source: Doom edits)
+
+
+
+Author: elend
+From: "Post your Doom textures" DW thread
+elend_1 - 7 (Source: Edits from HIDfan Doom 3 conversions)
+
+
+
+Author: NaturalTvventy
+From: "Post your Doom textures" DW thread
+NATTWEN1 - 5 (Source: Edits derived from LostRes and GothicDM)
+
+
+
+Author: Koko Ricky
+From: "Post your Doom textures" DW thread
+KOKO_1 & 2 (Source: Modified online images (unknown))
+
+
+
+Author: Shibainumaster
+From: "Post your Doom textures" DW thread
+SHIB_1 - 3 (Source: Doom edits)
+SHIB_AR1 - 7 (Source: Doom edits (including plutonia))
+
+
+
+Source: Based on textures by 'Metlslime'
+Author: MattFright
+From: "Post your Doom textures" DW thread
+MATT_A1 - 3
+
+
+
+Author: Chainie
+From: "Post your Doom textures" DW thread
+CHA_F1 - 4 (Source: Gothic edits)
+
+
+
+Author: CherryPoptartzzz
+From: "Post your Doom textures" DW thread
+QUAK_ARC (Source: Doom edit, Quake edit)
+
+
+
+Author: horselessheadsman
+From: "Post your Doom textures" DW thread
+HORSSPIN (Source: Doom edit)
+HORS_1 - 5 (Source: Doom edits)
+
+
+
+Author: ViolentBeetle
+From: "Post your Doom textures" DW thread
+BEETLE1 (Source: Doom edit?)
+
+
+
+Author: Scorpio
+From: "Post your Doom textures" DW thread
+TRUSS01 & 2 (Source: From scratch, based on OTEX)
+
+
+
+Author: kwc
+From: "Post your Doom textures" DW thread
+KWC_P1 - 13 (Source: Derived from DN:MP)
+
+
+
+Author: Krankebok
+From: "Post your Doom textures" DW thread
+KRAN_1 - 4 (Source: Unknown)
+
+
+
+Author: DELTA256
+From: "Post your Doom textures" DW thread
+DELTA_1 - 8 (Source: Edits from Ashes 2063 (not sure about original))
+
+
+
