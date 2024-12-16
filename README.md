@@ -4,7 +4,7 @@
 
 Big stable compilation of various texturepacks (~7700 textures total). All credits in archive.
 
-### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-ColossalDTex/releases/latest/download/ColossalDTex_v1.wad)
+### Download - [Latest Release](https://github.com/dron12261games/RES-UltimateDTex/releases/download/beta2_fix2/UltimateDTex.beta2f2.zip)
 
 This texturepack is assembled from:
 - D1inD2.wad (fixed by Dron12261)
