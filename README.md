@@ -1,4 +1,4 @@
-# UltimateDTex [BOOM+, TexturePack with ~7700 textures]
+# UltimateDTex [BOOM+, TexturePack with ~9000 textures]
 
 # STATUS: ✅RELEASED
 
