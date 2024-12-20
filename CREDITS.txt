@@ -2,7 +2,7 @@
 UltimateDTex.wad
 Compiled by Dron12261
 ---------------------
-Beta 2 fix 1
+Beta 3
 
 
 !!!!!!!!!!!!!!!!!!!!!!!
@@ -106,3 +106,5 @@ PORTWARN by DRON12261
 Colored Textures variations by DRON12261
 
 - A Doom Odyssey 2022
+
+- Big Light Textures Pack by DRON12261
